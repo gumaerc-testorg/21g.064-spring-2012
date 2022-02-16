@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 225e8355-c18f-b7d6-c087-08fa5e786f41
 ---
@@ -149,10 +151,10 @@ KEY DATES
 {{< tdopen >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Introduction to the Course: Brief history Japan and the contemporary study of culture
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 
@@ -167,7 +169,7 @@ Introduction to the Course: Brief history Japan and the contemporary study of cu
 {{< tdopen >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Is Japan group-oriented?
 {{< tdclose >}}
 {{< tdopen >}}
@@ -206,7 +208,7 @@ Please pay special attention to "[Echoes of Heian-Kyo: Court Culture and the Flo
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Men, Women, and Change
 {{< tdclose >}}
 {{< tdopen >}}
@@ -271,10 +273,10 @@ Film: _Inside Japan, Inc_.
 {{< tdopen >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Diversity of Japan
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
  
 {{< tdclose >}}
 
@@ -301,7 +303,7 @@ Diversity of Japan
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Hiroshima: Did the Bomb End the War?
 {{< tdclose >}}
 {{< tdopen >}}
@@ -322,7 +324,7 @@ Film: [Grave of the Fireflies](http://www.imdb.com/title/tt0095327/) (Dir. IsaoT
 {{< tdopen >}}
 16
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Contemporary Japan as Global Culture
 {{< tdclose >}}
 {{< tdopen >}}
@@ -352,7 +354,7 @@ Essay 2 revision due
 {{< tdopen >}}
 19
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Student Symposium on Japanese Culture
 {{< tdclose >}}
 {{< tdopen >}}
@@ -400,7 +402,7 @@ Presentations (cont.)
 {{< tdopen >}}
 24
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Conclusions and Future Questions
 {{< tdclose >}}
 {{< tdopen >}}

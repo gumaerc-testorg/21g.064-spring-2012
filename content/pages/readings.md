@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: f7c08b9c-a33e-ba1a-fdde-7beb2edaf5fd
 ---
@@ -39,10 +42,10 @@ READINGS
 {{< tdopen >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Introduction to the Course: Brief history Japan and the contemporary study of culture
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 \[Bumiller\] 1-33
 {{< tdclose >}}
 
@@ -57,10 +60,10 @@ Introduction to the Course: Brief history Japan and the contemporary study of cu
 {{< tdopen >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Is Japan group-oriented?
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 \[Bumiller\] Continue reading. Finish by session 8.
@@ -103,10 +106,10 @@ McCullough, Helen. Chapters 1 and 9 in _The Tale of the Heike_. Stanford Univers
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Men, Women, and Change
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 Kelly, William W., and Merry I. White. ["Students, Slackers, Singles, Seniors and Strangers: Transforming a Family Nation." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://studylib.net/doc/13524067/students--slackers--singles--seniors--and-strangers--tran...)
@@ -145,10 +148,10 @@ Film: _The Pacific Century, Vol. 6: Inside Japan, Inc._ 60 mins. 1992.
 {{< tdopen >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Diversity of Japan
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 \[Philip\] All.
@@ -201,10 +204,10 @@ Miyazaki, Hayao. "My Theories on the Popularity of Manga." In _Starting Point: 1
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Hiroshima: Did the Bomb End the War?
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Sayle, Murray. "[Letter from Hiroshima: Did the Bomb End the War?](http://www.newyorker.com/archive/1995/07/31/1995_07_31_040_TNY_CARDS_000373616)," _New Yorker_, July 31, 1995, 40–64.
@@ -229,10 +232,10 @@ Film: [_Grave of the Fireflies_](http://www.imdb.com/title/tt0095327/). Directed
 {{< tdopen >}}
 16
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Contemporary Japan as Global Culture
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 McGray, Douglas. "[Japan's Gross National Cool](http://www.foreignpolicy.com/articles/2002/05/01/japans_gross_national_cool)." _Foriegn Policy_, May 1, 2012.
