@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the writing assignments and oral
+  presentations required for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a3071db0-cc59-520a-2a1e-9ceafd1ae8cf
 ---
@@ -11,14 +16,14 @@ Essay 1—Due Session 9
 
 (5-page paper, double spaced)
 
-In his article "Finding a Place in Metropolitan Japan," William Kelly criticizes the recurring "consensus versus conflict" debate… \[[Read more]({{< baseurl >}}/pages/assignments/e1-bumiller-kelly-3-12)\]
+In his article "Finding a Place in Metropolitan Japan," William Kelly criticizes the recurring "consensus versus conflict" debate… \[{{% resource_link 5d333f85-826e-caa4-a003-271993cde511 "Read more" %}}\]
 
 Essay 2—Due Session 14
 ----------------------
 
 (5-page paper, double spaced)
 
-During this section of the class we are exploring and discussing different approaches to cultural analysis… \[[Read more]({{< baseurl >}}/pages/assignments/jcult-e2_assgmt)\]
+During this section of the class we are exploring and discussing different approaches to cultural analysis… \[{{% resource_link 9b1900ba-f617-b346-03b0-b5c49fa65eae "Read more" %}}\]
 
 Essay 2 Revision—Due Session 18
 -------------------------------
