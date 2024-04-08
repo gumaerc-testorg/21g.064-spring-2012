@@ -112,9 +112,9 @@ Film: *Hoichi the Earless*, excerpt from *Kwaidan* (Dir. Masaki Kobayashi)
 Culture of Art, Folktakes, and Performance
 {{< tdclose >}}{{< tdopen >}}
 
-Visit to the Boston [MFA](http://www.mfa.org/) and discussion on the representation of Japan at the MFA.
+Visit to the Boston {{% resource_link "511c40bd-671a-4850-bed7-ef9966fa16f9" "MFA" %}} and discussion on the representation of Japan at the MFA.
 
-Please pay special attention to "[Echoes of Heian-Kyo: Court Culture and the Floating World](http://www.mfa.org/exhibitions/echoes-heian-kyo)," some of which depicts the world of the Tale of Genji.
+Please pay special attention to "{{% resource_link "b0afd73d-4bd5-4548-8ce5-e0423d56e737" "Echoes of Heian-Kyo: Court Culture and the Floating World" %}}," some of which depicts the world of the Tale of Genji.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -167,7 +167,7 @@ Essay 2 due
 {{< tdclose >}}{{< tdopen >}}
 Hiroshima: Did the Bomb End the War? (continued)
 {{< tdclose >}}{{< tdopen >}}
-Film: [Grave of the Fireflies](http://www.imdb.com/title/tt0095327/) (Dir. IsaoTakahata, Studio Ghibli)
+Film: {{% resource_link "f3c1d418-d02a-4ff2-a179-ea94b0fa9998" "Grave of the Fireflies" %}} (Dir. IsaoTakahata, Studio Ghibli)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16–18
 {{< tdclose >}}{{< tdopen >}}
