@@ -41,9 +41,9 @@ Is Japan group-oriented?
 
 Kelly, William. "Finding a Place in Metropolitan Japan." In *Postwar Japan as History*. Edited by Andrew Gordon. University of California Press, 1993. ISBN: 9780520074750.
 
-Film: {{% resource_link "da55016c-c38b-409b-89c4-d8589b24d3e3" "*Makiko's New World*" %}}. Directed by David Plath. Color, 57 min. Media Production Group, 1999. \[Preview available on YouTube: docued. "{{% resource_link "4f5680e6-b516-4351-850b-7e129476f765" "Makiko's New World – PREVIEW" %}}." September 10, 2008. Accessed August 28, 2012.\]
+Film: [*Makiko's New World*](http://www.der.org/films/makikos-new-world.html). Directed by David Plath. Color, 57 min. Media Production Group, 1999. \[Preview available on YouTube: docued. "[Makiko's New World – PREVIEW](http://www.youtube.com/v/59B9ME3B5Mo)." September 10, 2008. Accessed August 28, 2012.\]
 
-Film: *Hoichi the Earless*, excerpt from {{% resource_link "2d69fc9a-8df9-440d-a655-fd4e9dfbe363" "*Kwaidan*" %}}. Directed by Masaki Kobayashi. Color, 183 min, 1964.
+Film: *Hoichi the Earless*, excerpt from [*Kwaidan*](http://www.imdb.com/title/tt0058279/). Directed by Masaki Kobayashi. Color, 183 min, 1964.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -61,7 +61,7 @@ McCullough, Helen. Chapters 1 and 9 in *The Tale of the Heike*. Stanford Univers
 Men, Women, and Change
 {{< tdclose >}}{{< tdopen >}}
 
-Kelly, William W., and Merry I. White. {{% resource_link "3eec2790-bdf0-4d13-8046-93bbe30bf431" "\"Students, Slackers, Singles, Seniors and Strangers: Transforming a Family Nation.\" (PDF)" %}}
+Kelly, William W., and Merry I. White. ["Students, Slackers, Singles, Seniors and Strangers: Transforming a Family Nation." (PDF)](https://studylib.net/doc/13524067/students--slackers--singles--seniors--and-strangers--tran…)
 
 Film: *The Pacific Century, Vol. 6: Inside Japan, Inc.* 60 mins. 1992.
 
@@ -103,18 +103,18 @@ Miyazaki, Hayao. "My Theories on the Popularity of Manga." In *Starting Point: 1
 Hiroshima: Did the Bomb End the War?
 {{< tdclose >}}{{< tdopen >}}
 
-Sayle, Murray. "{{% resource_link "5ff5452b-09d7-4ac9-a1a1-9b1008b54630" "Letter from Hiroshima: Did the Bomb End the War?" %}}," *New Yorker*, July 31, 1995, 40–64.
+Sayle, Murray. "[Letter from Hiroshima: Did the Bomb End the War?](http://www.newyorker.com/archive/1995/07/31/1995_07_31_040_TNY_CARDS_000373616)," *New Yorker*, July 31, 1995, 40–64.
 
-Dower, John. "{{% resource_link "3f3044a8-1e42-4e81-aaf4-897f3984e78b" "Don't Expect Democracy in Iraq" %}}." *Boston Review*, February/March 2003 issue.
+Dower, John. "[Don't Expect Democracy in Iraq](http://www.bostonreview.net/world/john-w-dower-warning-history)." *Boston Review*, February/March 2003 issue.
 
 Napier, Susan J. "Grave of the Fireflies." In *Anime from Akira to Princess Mononoke: Experiencing Contemporary Japanese Animation*. Palgrave Macmillan, 2001. ISBN: 9780312238629.
 
-Film: {{% resource_link "f3c1d418-d02a-4ff2-a179-ea94b0fa9998" "*Grave of the Fireflies*" %}}. Directed by Isao Takahata. Color, 89 min. Studio Ghibli, 1988.
+Film: [*Grave of the Fireflies*](http://www.imdb.com/title/tt0095327/). Directed by Isao Takahata. Color, 89 min. Studio Ghibli, 1988.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16–18
 {{< tdclose >}}{{< tdopen >}}
 Contemporary Japan as Global Culture
 {{< tdclose >}}{{< tdopen >}}
-McGray, Douglas. "{{% resource_link "c68996fa-16d1-400b-bd97-9838a34e8c79" "Japan's Gross National Cool" %}}." *Foriegn Policy*, May 1, 2012.
+McGray, Douglas. "[Japan's Gross National Cool](http://www.foreignpolicy.com/articles/2002/05/01/japans_gross_national_cool)." *Foriegn Policy*, May 1, 2012.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
